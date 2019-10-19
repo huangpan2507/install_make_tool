@@ -13,3 +13,9 @@
 
 下面是我写的关于解决此问题的博客！
 https://blog.csdn.net/weixin_39209112/article/details/102570632
+
+
+2.发现以上操作并没有解决问题
+按如下操作：解决，make等命令问题
+https://blog.csdn.net/wolf1132/article/details/88991680
+https://blog.csdn.net/weixin_39198406/article/details/82948003
